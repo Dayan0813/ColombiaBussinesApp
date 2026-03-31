@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="384" viewBox="0 0 384 384">
+  <rect width="384" height="384" rx="69.12" fill="#1a1a2e"/>
+  <!-- Franjas Colombia -->
+  <rect x="38.400000000000006" y="238.07999999999998" width="307.20000000000005" height="46.08" rx="3" fill="#CE1126"/>
+  <rect x="38.400000000000006" y="284.15999999999997" width="307.20000000000005" height="23.04" rx="2" fill="#003893"/>
+  <rect x="38.400000000000006" y="192" width="307.20000000000005" height="46.08" rx="3" fill="#FCD116"/>
+  <!-- Letra N -->
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle"
+    font-family="Arial Black, sans-serif" font-weight="900"
+    font-size="161.28" fill="#fbbf24">N</text>
+</svg>
