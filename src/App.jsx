@@ -74,12 +74,15 @@ export default function App() {
         {renderSection()}
       </main>
       <footer className="app-footer">
-        <p>
-          🇨🇴 Colombia Business News · Powered by{" "}
+        <p className="footer-institution">Institución Educativa SENA</p>
+        <p className="footer-author">Dayan Shirley Arenas</p>
+        <p className="footer-api">
+          La API utilizada para hacer este programa fue extraída del sitio web{" "}
           <a href="https://www.thenewsapi.com" target="_blank" rel="noopener noreferrer">
             The News API
           </a>
         </p>
+        <p className="footer-copy">© 2026 Todos los derechos reservados</p>
       </footer>
       <InstallPWA />
     </div>

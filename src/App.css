@@ -49,13 +49,38 @@ body {
 .app-footer {
   background: #0a0f1e;
   border-top: 1px solid var(--border);
-  padding: 1.25rem 1.5rem;
+  padding: 1.5rem 1.5rem;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
 }
 
 .app-footer p {
   font-size: 0.82rem;
   color: var(--text-muted);
+}
+
+.footer-institution {
+  font-size: 0.9rem !important;
+  font-weight: 700;
+  color: var(--accent) !important;
+  letter-spacing: 0.03em;
+}
+
+.footer-author {
+  font-size: 0.85rem !important;
+  color: var(--text-secondary) !important;
+}
+
+.footer-api {
+  font-size: 0.78rem !important;
+}
+
+.footer-copy {
+  font-size: 0.75rem !important;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
 }
 
 .app-footer a {
